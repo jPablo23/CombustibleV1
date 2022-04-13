@@ -22,8 +22,8 @@ Se busca registrar las recargas de combustible y ver reportes de todo el combust
 
 ## Link a hoja automatizada Google Sheets
 
-Página del proyecto: [Control_Combustible](https://www.google.com/)
-Google Sheets: [Control_Combustible](https://www.google.com/)
+Página del proyecto: [Control_Combustible](https://www.sofroscorp/ControlCombustible)
+Google Sheets: [Control_Combustible](https://docs.google.com/spreadsheets/d/1WrsAZuSYNDKWi_Iacw8W_sitDqPW6L3fjdb_LJw-RPE/edit?usp=sharing)
 
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 
@@ -31,14 +31,13 @@ Google Sheets: [Control_Combustible](https://www.google.com/)
 
 ## Demo
 
-Insert gif or link to demo
-![App Screenshot](https://github.com/jPablo23/CombustibleV1/blob/main/imgs/ControlV1.png)
+![App Screenshot](https://github.com/jPablo23/CombustibleV1/blob/main/imgs/guardar.gif)
 
 
 
 ## Documentación
 
-[Documentación](https://www.google.com)
+[Documentación](https://www.sofroscorp.com/ControlCombustible)
 
 
 ## Preguntas frecuentes
@@ -73,6 +72,7 @@ Trabajar con la hoja automatizada
   #1 ingresar en tu cuenta GMAIL
   #2 Abre el link a la hoja Google sheets
   #3 Crea una copia
+  #4 Dale permiso al script js para poder ejecutarse (Ver documentacion)
 ```
 
 Si cuando la modifiques a tus necesidades, llegarás a equivocarte, solo borra la hoja de tu drive y haz otra copia, y vuelve a empezar.
