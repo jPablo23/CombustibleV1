@@ -32,7 +32,7 @@ Google Sheets: [Control_Combustible](https://www.google.com/)
 ## Demo
 
 Insert gif or link to demo
-![App Screenshot](https://www.conmishijos.com/assets/posts/3000/3785-vaquita-enfadada.jpg)
+![App Screenshot](https://github.com/jPablo23/CombustibleV1/blob/main/imgs/ControlV1.png)
 
 
 
