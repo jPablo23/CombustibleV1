@@ -22,7 +22,7 @@ Se busca registrar las recargas de combustible y ver reportes de todo el combust
 
 ## Link a hoja automatizada Google Sheets
 
-Página del proyecto: [Control_Combustible](https://www.sofroscorp/ControlCombustible)
+Página del proyecto: [Control_Combustible](https://www.sofroscorp.com/ControlCombustible/)
 Google Sheets: [Control_Combustible](https://docs.google.com/spreadsheets/d/1WrsAZuSYNDKWi_Iacw8W_sitDqPW6L3fjdb_LJw-RPE/edit?usp=sharing)
 
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
