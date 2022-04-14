@@ -1,7 +1,7 @@
 
 # Control de Combustibles V1
 
-Este proyecto es para el control de combustibles de los vehículos de la empresa.
+Este proyecto es para el control de las cargas de combustible de los vehículos de una la empresa.
 
 
 
@@ -32,6 +32,10 @@ Google Sheets: [Control_Combustible](https://docs.google.com/spreadsheets/d/1Wrs
 ## Demo
 
 ![App Screenshot](https://github.com/jPablo23/CombustibleV1/blob/main/imgs/guardar.gif)
+
+##
+![App Screenshot](https://github.com/jPablo23/CombustibleV1/blob/main/imgs/gifGraficas.gif)
+
 
 
 
