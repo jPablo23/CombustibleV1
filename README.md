@@ -1,7 +1,7 @@
 
 # Control de Combustibles V1
 
-Este proyecto es para el control de las cargas de combustible de los vehículos de una la empresa.
+Este proyecto es para el control de las cargas de combustible de los vehículos de una empresa.
 
 
 
