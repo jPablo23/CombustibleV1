@@ -41,4 +41,8 @@ En ocaciones las formulas se pueden perder o dejar de funcionar, solo hay que vo
 
 =QUERY(BaseDatos!$A:$D,"SELECT C, SUM(B) WHERE A >= date '"&TEXTO(B4,"YYYY-MM-DD")&"' AND A <= date '"&TEXTO(B5,"YYYY-MM-DD")&"' and D ='LA LABOR' group by C",1)
 
+## Para Excluir datos 1= Diferente [o] <>
+=QUERY(Database!$A:$D,"SELECT * WHERE MONTH(A)="&BUSCARV(C2,Database!$K:$L,2,0)&" and YEAR(A) = "&C3&" AND C !='Ahorro' AND C !='Ingreso' ORDER BY B DESC  ",1)
+
+
 ###Utilizado en CopuTonin
